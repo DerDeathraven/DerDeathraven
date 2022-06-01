@@ -6,6 +6,6 @@
 
 - 🖥️ [jlcd.de](https://jlcd.de)
 - 📚 JS Fullstack
-- 📫 [jean-luc@jlcd.de](mailto:jean-luc@jlcd.de?subject=Github Page)
+- 📫 [jean-luc@jlcd.de](mailto:jean-luc@jlcd.de)
 
 
