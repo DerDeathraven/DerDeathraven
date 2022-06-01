@@ -1,7 +1,11 @@
 ### Greetings and welcome to my page 
 
-  [visitors](https://visitor-badge.glitch.me/badge?page_id=derDeathraven.Profile)
-<p align="center"></p>
+  
+<p align="center">
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=derDeathraven.Profile)
+  
+<p>
 
  🖥️ [jlcd.de](https://jlcd.de) <br/>
  📚 JS Fullstack  <br/>
