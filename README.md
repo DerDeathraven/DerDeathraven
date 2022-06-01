@@ -15,6 +15,7 @@
 
 <div align="center">
    <a href="https://jlcd.de" target="_blank"><img width="55" src="https://jlcd.de/android-chrome-192x192.png"/></a>
+  <a href="https://www.linkedin.com/in/jean-luc-christoph-dittler-b95064137/" target="_blank"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg"/></a>
 
 </div>
 <h2> </h2>
