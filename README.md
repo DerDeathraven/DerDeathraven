@@ -14,7 +14,7 @@
 
 
 <div align="center">
-   <a href="https://jlcd.de"><img width="55" src="https://jlcd.de/android-chrome-192x192.png"/></a>
+   <a href="https://jlcd.de" target="_blank"><img width="55" src="https://jlcd.de/android-chrome-192x192.png"/></a>
 
 </div>
 <h2> </h2>
