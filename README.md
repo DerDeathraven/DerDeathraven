@@ -20,7 +20,7 @@
 </div>
 <h2> </h2>
 <div align="center">
-  <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DerDeathraven&show_icons=true&hide_border=true" />
+  <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DerDeathraven&show_icons=true&hide_border=true&theme=codeSTACKr" />
 </div>
 
 
