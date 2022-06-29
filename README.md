@@ -20,6 +20,12 @@
 </div>
 <h2> </h2>
 <div align="center">
+  <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DerDeathraven&show_icons=true&hide_border=true" />
+</div>
+
+
+<h2> </h2>
+<div align="center">
  
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg"/>
