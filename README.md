@@ -9,6 +9,7 @@
 <div align="center">
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=derDeathraven.Profile)
+  [![wakatime](https://wakatime.com/badge/user/baf819ad-1920-42f7-9957-867bec17c57c.svg)](https://wakatime.com/@baf819ad-1920-42f7-9957-867bec17c57c)
   
 </div>
 
@@ -21,6 +22,9 @@
 <h2> </h2>
 <div align="center">
   <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DerDeathraven&show_icons=true&hide_border=true&theme=codeSTACKr" />
+</div>
+<div  align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Deathraven/5c5a1558-7f8a-49f9-9611-c65e1cc8dbce.png" /></a>
 </div>
 
 
