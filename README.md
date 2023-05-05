@@ -8,7 +8,7 @@
   
 <div align="center">
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=derDeathraven.Profile)
+
   [![wakatime](https://wakatime.com/badge/user/baf819ad-1920-42f7-9957-867bec17c57c.svg)](https://wakatime.com/@baf819ad-1920-42f7-9957-867bec17c57c)
   
 </div>
